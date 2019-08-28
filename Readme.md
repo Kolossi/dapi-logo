@@ -8,4 +8,14 @@ To use the font, drag the .ttf font file to the `Control Panel\All Control Panel
 
 To edit the logo or icon/emoji, use [draw.io](https://www.draw.io/) and load the relevant *.xml file. If you have only just installed the font, you'll need to exit all browser windows before reopening and loading this up.
 
-The "Dapi Blue" colour is `#205CA4` or `rgb (32,92,164)`
+The full logo is:
+
+![DAPI logo full](./Dapi%20Logo%20Full_320.png)
+
+The icon/emoji is:
+
+![DAPI icon.emoji](./Dapi_64.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![DAPI icon.emoji](./Dapi_32.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![DAPI icon.emoji](./Dapi_16.png)
+
+
+
+The "Dapi Blue" colour is `#205CA4` or `rgb (32,92,164)`, the text and lines are full white `#ffffff` or `rgb(255,255,255)
