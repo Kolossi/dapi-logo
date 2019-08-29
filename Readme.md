@@ -22,6 +22,7 @@ For extra geekiness/greekiness, also:
 ![DAPI icon/emoji](./DapiGeek_64.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![DAPI icon/emoji](./DapiGeek_32.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![DAPI icon/emoji](./DapiGeek_16.png)
 
 
+The "Dapi Blue" colour is `#205CA4` or `rgb (32,92,164)`, the text and lines are full white `#ffffff` or `rgb(255,255,255)`.
 
+The font used on the keystone emoji is Georgia Bold (seems to be what the "blueprint" font is based on).
 
-The "Dapi Blue" colour is `#205CA4` or `rgb (32,92,164)`, the text and lines are full white `#ffffff` or `rgb(255,255,255)
