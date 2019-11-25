@@ -4,7 +4,7 @@ The files in this repo are for the DAPI team "build on DAPI" logo, and DAPI keys
 
 This includes a zip of the "FFF Tusj" font by [Magnus Cederholm](http://www.formfett.net/) which is free for both personal and commercial use.
 
-To use the font, drag the .ttf font file to the `Control Panel\All Control Panel Items\Fonts` display
+To use the font, drag the .ttf font file to the `Control Panel\All Control Panel Items\Fonts` display window.
 
 To edit the logo or icon/emoji, use [draw.io](https://www.draw.io/) and load the relevant `*.xml` file. If you have only just installed the font, you'll need to exit all browser windows before reopening and loading this up.
 
@@ -25,4 +25,6 @@ For extra geekiness/greekiness, also:
 The "Dapi Blue" colour is `#205CA4` or `rgb (32,92,164)`, the text and lines are full white `#ffffff` or `rgb(255,255,255)`.
 
 The font used on the keystone emoji is Georgia Bold (seems to be what the "blueprint" font is based on).
+
+**NOTE :** this repo has also been pushed to https://github.com/Kolossi/dapi-logo so that images are available globally, e.g. the geek 64x64 logo is at https://raw.githubusercontent.com/Kolossi/dapi-logo/master/DapiGeek_64.png
 
